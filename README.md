@@ -3,9 +3,8 @@ The live updated forms for mods and updates!
 
 ⚠️ Not affiliated with Yandex, Survival Race, or Unity.
 
----
 
-## 👤 Official Author
+👤 Official Author
 Israel28
 
 ---
@@ -13,9 +12,8 @@ Israel28
 ## ⚠️ Important Notice
 This page is ONLY for the Modded Version of the game.
 
----
 
-## 🎮 Official Normal Game → Israel28
+🎮 Official Normal Game → Israel28
 
 ---
 
@@ -28,6 +26,7 @@ MODS may take 2–3 weeks to be reviewed before approval.
 Option 1 — In-Game Repository
 
 Download mods directly in the game (Coming Soon)
+
 Option 2 — Manual Install
 
 Download mods from a forked repository or the comments section
