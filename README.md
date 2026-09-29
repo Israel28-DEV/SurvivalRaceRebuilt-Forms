@@ -13,7 +13,7 @@ The live updated forms for mods and updates!
 This page is ONLY for the Modded Version of the game.
 
 
-🎮 Official Normal Game → [[Israel28](https://github.com/Israel-28)](https://github.com/Israel-28/SurvivalRaceRebuilt)
+🎮 Official Normal Game → [Israel28](https://github.com/Israel-28/SurvivalRaceRebuilt)
 
 ---
 
