@@ -5,7 +5,7 @@ The live updated forms for mods and updates!
 
 
 👤 Official Author
-Israel28
+[Israel28](https://github.com/Israel-28)
 
 ---
 
@@ -13,7 +13,7 @@ Israel28
 This page is ONLY for the Modded Version of the game.
 
 
-🎮 Official Normal Game → Israel28
+🎮 Official Normal Game → [[Israel28](https://github.com/Israel-28)](https://github.com/Israel-28/SurvivalRaceRebuilt)
 
 ---
 
@@ -24,11 +24,9 @@ MODS may take 2–3 weeks to be reviewed before approval.
 
 ## 📥 MOD Installation
 Option 1 — In-Game Repository
-
 Download mods directly in the game (Coming Soon)
 
 Option 2 — Manual Install
-
 Download mods from a forked repository or the comments section
 
 ⚠️ Note as of 09/30/2026: Multiple mods cannot be used at the same time!
