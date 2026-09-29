@@ -30,6 +30,7 @@ Download mods directly in the game (Coming Soon)
 Option 2 — Manual Install
 
 Download mods from a forked repository or the comments section
+
 ⚠️ Note as of 09/30/2026: Multiple mods cannot be used at the same time!
 
 ---
@@ -41,7 +42,6 @@ Scripts go in `Assets/Scripts/`
 
 Replace or add assets and rebuild the project in Unity 2022.3.24f1.
 
----
 
 ## 🚗 Adding a Custom Car
 
