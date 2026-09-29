@@ -24,9 +24,11 @@ MODS may take 2–3 weeks to be reviewed before approval.
 
 ## 📥 MOD Installation
 Option 1 — In-Game Repository
+
 Download mods directly in the game (Coming Soon)
 
 Option 2 — Manual Install
+
 Download mods from a forked repository or the comments section
 
 ⚠️ Note as of 09/30/2026: Multiple mods cannot be used at the same time!
