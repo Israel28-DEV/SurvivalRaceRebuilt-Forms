@@ -1,30 +1,33 @@
-# SurvivalRaceRebuilt-Forms
-The live updated forms for mods and updates! (Not Affiliated with Yandex or Survival Race/Unity)
+🎮 SurvivalRaceRebuilt-Forms
+The live updated forms for mods and updates!
 
-Official Author #[Israel28](https://github.com/Israel-28)
+⚠️ Not affiliated with Yandex, Survival Race, or Unity.
 
-This page is ONLY for the Modded Version of the game!
-Official Normal Game Here #[Israel28](https://github.com/Israel-28)
+👤 Official Author
+Israel28
 
-MODS May Take 2-3 Weeks To Be Reviewed!
+⚠️ Important Notice
+This page is ONLY for the Modded Version of the game.
 
-MOD Installation Steps
+🎮 Official Normal Game → Israel28
 
-Download MODS on the Repository in the Game [Coming Soon]
-OR
-Download MODS on forked Repository or Comments
+⏳ Mod Review Time
+MODS may take 2–3 weeks to be reviewed before approval.
 
-Note as of 09/30/2026 Multiple Mods can not be use at the same time!
+📥 MOD Installation
+Option 1 — In-Game Repository
 
-MOD Creation Steps
+Download mods directly in the game (Coming Soon)
+Option 2 — Manual Install
 
-## 🔧 Basic Modding
+Download mods from a forked repository or the comments section
+⚠️ Note as of 09/30/2026: Multiple mods cannot be used at the same time!
 
-To mod the game you'll need Unity **2022.3.24f1** installed.
-
-- Car meshes are stored in `Assets/Mesh/`
-- Materials are in `Assets/Material/`
-- Scripts are in `Assets/Scripts/`
+🔧 MOD Creation
+Car meshes go in Assets/Mesh/
+Materials go in Assets/Material/
+Scripts go in Assets/Scripts/
+See the full modding guide → MODDING.md
 
 Replace or add assets and rebuild the project in Unity 2022.3.24f1.
 
